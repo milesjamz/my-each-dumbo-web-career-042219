@@ -7,3 +7,4 @@ while i < collection.length
   end
  newArray
 end
+my_each(collection)
