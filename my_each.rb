@@ -8,3 +8,4 @@ while i < collection.length
  newArray
 end
 my_each(collection)
+end
